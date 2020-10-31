@@ -1,4 +1,4 @@
 # Christmas-countdown
 
-A live countdown till Christmas
+A live Christmas countdown
 Built with vanilla Javascript and CSS
